@@ -1,3 +1,9 @@
+/* import fonts from fonts.css file */ 
+@import url(./fonts.css);
+
+/* css variables */ 
+@import url(./partials/_variables.css);
+
 /* Styles for wrapping the search box */
 
 /* Nav bar buttons */
@@ -57,4 +63,7 @@
 
 
 /* End Banner Area */ 
+
+
+
 
