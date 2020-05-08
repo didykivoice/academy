@@ -1,5 +1,14 @@
 /* Styles for wrapping the search box */
 
+/* Nav bar buttons */
+.reg-button{
+    padding: 5px;
+}
+
+.login-button{
+    padding: 5px;
+}
+
 .main {
     width: 50%;
     margin: 50px auto;
